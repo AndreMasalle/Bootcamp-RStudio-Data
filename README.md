@@ -1,3 +1,4 @@
-# Bootcamp-RStudio-Data
+# Project 1 RStudio
 
-Repo ini berisikan tugas project dari bootcamp RStudio Educativa
+Pada project ini untuk melihat perbedaan pada varians pendapatan pada rumah tangga dengan beberapa skenario
+dan juga melihat apakah terdapat dependensi antara rumah tangga yang memiliki anak dan tidak
